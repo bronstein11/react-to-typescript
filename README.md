@@ -7,6 +7,10 @@ Projeto de aprendizado e desenvolvimento em TypeScript
 Este projeto documenta minha primeira experiência com TypeScript, realizando a migração de uma aplicação React para TypeScript. O objetivo principal é aprofundar meus conhecimentos em desenvolvimento front-end e adicionar tipagem estática ao código, melhorando a qualidade, manutenibilidade e experiência de desenvolvimento.
 Desenvolvedor: Mauricio Grass de Bronstein
 
+🌐 Demo
+
+Acesse o projeto em produção: https://react-to-typescript.vercel.app
+
 🎯 Objetivos
 
 Aprender os fundamentos do TypeScript
